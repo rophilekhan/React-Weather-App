@@ -18,6 +18,7 @@ import wind_icon from '../assets/images/wind.png'
 
 const Weather = () => {
 
+    
 
     const inputRef = useRef();
     const [weatherData, setWeatherData] = useState(false);
